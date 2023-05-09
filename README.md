@@ -1,1 +1,1 @@
-# birthday-buddy
+# Birthday Buddy
