@@ -10,7 +10,7 @@ In this project, `react.js` was used to created this landing page along with it'
 
 ## Important Links
 
--
+- https://birthdaybud.netlify.app
 
 ### Setup Steps
 
