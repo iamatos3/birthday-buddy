@@ -16,7 +16,7 @@ In this project, `react.js` was used to created this landing page along with it'
 
 1. [Fork and Clone](https://github.com/iamatos3/birthday-buddy) this repository.
 2. ```npm install```
-3. ```npm start```
+3. ```npm run dev```
 
 ### Technologies Used
 
